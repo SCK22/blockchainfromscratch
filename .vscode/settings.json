@@ -1,8 +1,0 @@
-{
-    "python.condaPath": "/home/sck/anaconda3/bin/conda",
-    "python.linting.pylintEnabled": false,
-    "python.linting.pep8Enabled": true,
-    "python.linting.enabled": true,
-    "python.pythonPath": "/home/sck/anaconda3/bin/python3.6",
-    "python.formatting.autopep8Path": ""
-}
